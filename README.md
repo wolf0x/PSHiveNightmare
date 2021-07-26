@@ -23,7 +23,7 @@ The permissions on key registry hives are set to allow all non-admin users to re
 **What does the exploit do?**
 Allows you to read SAM data (sensitive) in Windows 10, as well as the SYSTEM and SECURITY hives.
 
-This exploit uses VSC to extract the SAM, SYSTEM, and SECURITY hives even when in use, and saves them in current directory as HIVENAME-haxx, for use with whatever cracking tools, or whatever, you want.
+This exploit uses VSC to extract the SAM, SYSTEM, and SECURITY hives even when in use, and saves them in current directory as HIVENAME, for use with whatever cracking tools, or whatever, you want.
 
 ![image](https://user-images.githubusercontent.com/15625431/127021995-b396742e-087d-4ff6-9067-2c614dbceaab.png)
 

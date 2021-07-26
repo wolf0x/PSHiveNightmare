@@ -9,7 +9,7 @@ An zero day exploit for HiveNightmare, which allows you to retrieve all registry
 **Why PS this?**
 The HiveNightmware was easily detected by AV tool and can't inject into memory, PS does. 
 
-老外那个太容易被杀了，绕绕虽然容易，但不如注入内存运行方便。
+老外那个不改改，落地就被杀了，绕绕虽然容易，但不如注入内存运行方便。
 
 **Authors**
 Code by wolf@0x
